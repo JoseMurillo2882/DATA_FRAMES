@@ -1,5 +1,5 @@
 <h1 align="center">HOLA 👋, MI NOMBRE ES JOSE FRANCISCO MURILLO MALDONADO</h1>
-<h3 align="center">SOY UN ANALISTA DE DATOS APASSIONADO</h3>
+<h3 align="center">SOY UN ANALISTA DE DATOS APASIONADO</h3>
 
 - 💬 Ask me about **SQL - PHYTON - C++**
 
