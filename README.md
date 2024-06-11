@@ -1,4 +1,4 @@
-<h1 align="center"> En este espacio, encontrarán diversos proyectos desarrollados en Jupyter y programados en Python. A continuación, presento algunos ejemplos </h1>
+<h1 align="center"> En este espacio, encontrarán diversos proyectos desarrollados en **Google Colab** y programados en Python, utilizando diferentes librerias como PANDAS, NUMPY, MATPLOTLIB, SEABORN </h1>
 
 - **PROYECTO - Clasificación utilizando KNN:** Este proyecto demuestra cómo realizar clasificación utilizando el algoritmo de vecinos más cercanos (KNN) en Python, haciendo uso de bibliotecas como scikit-learn (sklearn) y Matplotlib. El objetivo principal de este código es predecir si lloverá al día siguiente basándose en datos meteorológicos previos.
 
